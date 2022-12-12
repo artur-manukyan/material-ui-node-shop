@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../aca-rest-api/node-rest-shop"
+		}
+	],
+	"settings": {}
+}

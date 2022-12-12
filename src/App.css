@@ -32,7 +32,21 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
 }
+
+/* .css-y9s1zk {
+  overflow: hidden !important;
+  border: 2px solid red !important;
+}
+
+.css-y9s1zk img {
+  transition: transform .5s ease !important;
+}
+
+.css-y9s1zk:hover img{
+  transform: scale(1.5) !important;
+} */
